@@ -40,11 +40,11 @@
 
 **Slack**
 
-![Slack Open Graph example](https://i.postimg.cc/QdZBDNWP/slack-message-og-example.jpg)
+![Slack Open Graph example](https://i.postimg.cc/7ZNvKD80/slack-message-og-example.png)
 
 **KakaoTalk**
 
-![KakaoTalk Open Graph example](https://i.postimg.cc/0yGzygYN/kakao-og-example.jpg)
+![KakaoTalk Open Graph example](https://i.postimg.cc/jjqp99t9/kakao-og-example.png)
 
 [더 많은 오픈 그래프 속성 보기](https://ogp.me/)
 
@@ -320,5 +320,4 @@ JavaScript를 '엄격 모드'로 사용합니다.<br>
 - 혼란스럽거나 제대로 고려되지 않은 기능들을 비활성화
 
 ## Reference
----
 - https://github.com/ParkYoungWoong/starbucks-vanilla-app
