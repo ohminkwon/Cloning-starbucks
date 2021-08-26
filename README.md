@@ -100,11 +100,12 @@ favicon.png 파일을 사용하려면 다음과 같이 `<link />`를 작성하�
 ```
 
 - `favicon.ico` 64 x 64 또는 32 x 32 또는 16 x16
-- `favicon.png`ß 500 x 500 (px)
+- `favicon.png` 500 x 500 (px)
 
 ## .ico 파일 제작
 
-이미지를 업로드하면 손쉽게 `.ico` 파일을 제작할 수 있습니다.
+이미지를 업로드하면 손쉽게 `.ico` 파일을 제작할 수 있습니다.<br>
+<br>
 [iconifier.net](https://iconifier.net/)
 
 ## Reset.css
@@ -317,3 +318,7 @@ JavaScript를 '엄격 모드'로 사용합니다.<br>
 - 일반적인 코딩 실수에서 예외 처리
 - 안전하지 않은 액션에 대한 예외 처리(ex: 전역 객체로 접근)
 - 혼란스럽거나 제대로 고려되지 않은 기능들을 비활성화
+
+## Reference
+---
+- https://github.com/ParkYoungWoong/starbucks-vanilla-app
