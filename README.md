@@ -318,6 +318,3 @@ JavaScript를 '엄격 모드'로 사용합니다.<br>
 - 일반적인 코딩 실수에서 예외 처리
 - 안전하지 않은 액션에 대한 예외 처리(ex: 전역 객체로 접근)
 - 혼란스럽거나 제대로 고려되지 않은 기능들을 비활성화
-
-## Reference
-- https://github.com/ParkYoungWoong/starbucks-vanilla-app
