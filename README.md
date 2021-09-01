@@ -180,7 +180,7 @@ gsap.to(window, .7, {
 
 ## Swiper
 
-[Swiper](https://swiperjs.com/)는 하드웨어 가속 전환과 여러 기본 동작을 갖춘 현대적인 슬라이드 라이브러리입니다.
+[Swiper](https://swiperjs.com/)는 하드웨어 가속 전환과 여러 기본 동작을 갖춘 현대적인 슬라이드 라이브러리입니다.  
 [Getting Started With Swiper](https://swiperjs.com/get-started)
 
 > [2021.08.26 Updated]<br>
